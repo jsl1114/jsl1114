@@ -9,6 +9,7 @@
 # Hi, I'm Jason
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
+[![Wechat][wechat-shield]][wechat-url]
 
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
@@ -18,6 +19,8 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[wechat-shield]: https://img.shields.io/badge/-WECHAT-07C160?style=for-the-badge&logo=wechat&logoColor=white
+[wechat-url]: https://jsl1114.github.io/wechat.html
 [gmail-shield]: https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:ljs11141118@gmail.com
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
