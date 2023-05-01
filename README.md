@@ -11,6 +11,10 @@
 [![Gmail][gmail-shield]][gmail-url]
 [![Wechat][wechat-shield]][wechat-url]
 
+## Languages
+[JavaScript]
+
+## Technologies I've used
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
 [![Vue][Vue.js]][Vue-url]
@@ -52,3 +56,4 @@
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
