@@ -12,7 +12,7 @@
 [![Wechat][wechat-shield]][wechat-url]
 
 ## Languages
-[JavaScript]
+![JavaScript][JavaScript]
 
 ## Technologies I've used
 [![Next][Next.js]][Next-url]
