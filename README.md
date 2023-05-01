@@ -8,8 +8,7 @@
 -->
 # Hi, I'm Jason
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
+[![Gmail][gmail-shield]](ljs11141118@gmail.com)
 
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
@@ -19,6 +18,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[gmail-shield]: https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
