@@ -22,11 +22,15 @@
 [![Vue][Vue.js]][Vue-url]
 [![Next][Next.js]][Next-url]
 [![Express][Express.js]][Express-url]
+[![MongoDB][MongoDB]](https://www.mongodb.com/)
+[![git][Git]](https://git-scm.com/)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://expressjs.com/
 [wechat-shield]: https://img.shields.io/badge/-WECHAT-07C160?style=for-the-badge&logo=wechat&logoColor=white
