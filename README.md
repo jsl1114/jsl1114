@@ -7,7 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 # Hi, I'm Jason
-
+[![cv][CV]](https://jsl1114.github.io/cv_chinese.pdf)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Wechat][wechat-shield]][wechat-url]
@@ -30,6 +30,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[CV]: https://img.shields.io/badge/CV(Chinese)-013243?style=for-the-badge&logo=files&logoColor=white
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
