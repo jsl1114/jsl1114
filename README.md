@@ -6,23 +6,19 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<div>
-  <h2 align="center">
-    Hi, I'm Jason
-  </h2>
-</div>
+# Hi, I'm Jason
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Wechat][wechat-shield]][wechat-url]
 
-## Languages
+### Languages
 [![js][JavaScript]](https://www.javascript.com/)
 [![java][Java]](https://java.com)
 [![py][Python]](https://python.org)
 [![cpp][C++]](https://cplusplus.com/)
 
-## Technologies
+### Technologies
 [![React][React.js]][React-url]
 [![Vue][Vue.js]][Vue-url]
 [![Next][Next.js]][Next-url]
