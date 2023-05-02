@@ -6,7 +6,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-# Hi, I'm Jason
+<div>
+  <h2>
+    Hi, I'm Jason
+  </h2>
+</div>
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Wechat][wechat-shield]][wechat-url]
@@ -34,7 +39,7 @@
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://expressjs.com/
 [wechat-shield]: https://img.shields.io/badge/-WECHAT-07C160?style=for-the-badge&logo=wechat&logoColor=white
-[wechat-url]: https://jsl1114.github.io/wechat.html
+[wechat-url]: https://jsl1114.github.io/wechat
 [gmail-shield]: https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:ljs11141118@gmail.com
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
