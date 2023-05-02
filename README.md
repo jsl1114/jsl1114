@@ -7,7 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 # Hi, I'm Jason
-[![cv][CV]](https://jsl1114.github.io/cv_chinese.pdf)
+[![cv][CV]](https://jsl1114.github.io/files/resume/cv_chinese.pdf)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Wechat][wechat-shield]][wechat-url]
