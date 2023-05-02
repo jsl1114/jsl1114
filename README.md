@@ -12,10 +12,10 @@
 [![Wechat][wechat-shield]][wechat-url]
 
 ## Languages
-![JavaScript](https://www.javascript.com/)
-![Java](https://java.com)
-![Python](https://python.org)
-![C++](https://cplusplus.com/)
+[![js][JavaScript]](https://www.javascript.com/)
+[![java][Java]](https://java.com)
+[![py][Python]](https://python.org)
+[![cpp][C++]](https://cplusplus.com/)
 
 ## Technologies
 [![React][React.js]][React-url]
