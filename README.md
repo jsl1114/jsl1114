@@ -17,11 +17,13 @@
 [![java][Java]](https://java.com)
 [![py][Python]](https://python.org)
 [![cpp][C++]](https://cplusplus.com/)
+[![dart][Dart]](https://dart.dev/)
 
 ### Technologies
 [![React][React.js]][React-url]
 [![Vue][Vue.js]][Vue-url]
 [![Next][Next.js]][Next-url]
+[![flutter][Flutter]](https://flutter.dev/)
 [![Express][Express.js]][Express-url]
 [![MongoDB][MongoDB]](https://www.mongodb.com/)
 [![git][Git]](https://git-scm.com/)
@@ -30,6 +32,8 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Flutter]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter
+[Dart]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart
 [CV]: https://img.shields.io/badge/CV(Chinese)-013243?style=for-the-badge&logo=files&logoColor=white
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
