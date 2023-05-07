@@ -40,7 +40,8 @@
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://expressjs.com/
 [wechat-shield]: https://img.shields.io/badge/-WECHAT-07C160?style=for-the-badge&logo=wechat&logoColor=white
-[wechat-url]: mailto:ljs11141118@gmail.com?subject=Wechat Request&body=Please send this email as is to get a automated response containing my WeChat info.
+[wechat-url]: <mailto:ljs11141118@gmail.com?subject=Wechat Request&body=Please send this email as is to get a automated response containing my WeChat info.>
+
 [gmail-shield]: https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:ljs11141118@gmail.com
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
