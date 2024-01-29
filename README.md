@@ -7,7 +7,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![My personal website](web-nav.jpg)](https://jinsenliu.me)
-[![cv][CV]](https://jsl1114.github.io/assets/files/cv_chinese.pdf)
+[![cv][CV]](https://jsl1114.github.io/assets/files/cv_english.pdf)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![Wechat][wechat-shield]][wechat-url]
@@ -34,7 +34,7 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [Flutter]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter
 [Dart]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart
-[CV]: https://img.shields.io/badge/CV(Chinese)-013243?style=for-the-badge&logo=files&logoColor=white
+[CV]: https://img.shields.io/badge/CV-013243?style=for-the-badge&logo=files&logoColor=white
 [Git]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
 [Express.js]: https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white
