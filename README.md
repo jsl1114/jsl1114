@@ -6,7 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![My personal website](web-nav.jpg)](https://jinsenliu.me)
+[![My personal website](web-nav.jpg)](https://jsl1114.github.io)
 [![cv][CV]](https://jsl1114.github.io/assets/files/cv_english.pdf)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
