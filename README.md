@@ -10,12 +10,13 @@
 [![cv][CV]](https://jsl1114.github.io/assets/files/cv_english.pdf)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
-[![Wechat][wechat-shield]][wechat-url]
 
 ### Languages
-[![js][JavaScript]](https://www.javascript.com/)
-[![java][Java]](https://java.com)
 [![py][Python]](https://python.org)
+[![js][JavaScript]](https://www.javascript.com/)
+[![ts][TypeScript]](https://www.typescriptlang.org/)
+[![java][Java]](https://java.com)
+[![c][C]](https://en.wikipedia.org/wiki/C_(programming_language))
 [![cpp][C++]](https://cplusplus.com/)
 [![dart][Dart]](https://dart.dev/)
 
@@ -26,6 +27,7 @@
 [![flutter][Flutter]](https://flutter.dev/)
 [![Express][Express.js]][Express-url]
 [![MongoDB][MongoDB]](https://www.mongodb.com/)
+[![tf][TensorFlow]](https://www.tensorflow.org/)
 [![git][Git]](https://git-scm.com/)
 
 
@@ -77,3 +79,6 @@
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Java]: https://img.shields.io/badge/Java-ff0000?style=for-the-badge
 [C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
+[C]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
+[TypeScript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[TensorFlow]: https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
