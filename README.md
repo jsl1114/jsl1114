@@ -5,7 +5,7 @@
 *** See the bottom of this document for the declaration of the reference variables
 -->
 [![My personal website](web-nav.jpg)](https://jsl1114.github.io)
-[![cv][CV]](https://jsl1114.github.io/assets/cv_english.pdf)
+[![cv][CV]](https://jsl1114.github.io/assets/jason_liu_cv.pdf)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][gmail-shield]][gmail-url]
 
