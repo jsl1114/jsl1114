@@ -8,8 +8,6 @@
   <img src="web-nav.jpg" width="100%" alt="Jason Liu — visit my website" />
 </a>
 
-# Jason Liu
-
 Full-stack developer working across web and mobile.
 
 [![cv][CV]](https://jsl1114.github.io/assets/jason_liu_cv.pdf)
