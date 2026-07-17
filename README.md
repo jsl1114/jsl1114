@@ -1,64 +1,47 @@
-<!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
+*** Markdown "reference style" links are used for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
+*** See the bottom of this document for the declaration of the reference variables.
 -->
-[![My personal website](web-nav.jpg)](https://jsl1114.github.io)
+
+<div align="center">
+
+<a href="https://jsl1114.github.io">
+  <img src="web-nav.jpg" width="100%" alt="Jason Liu — visit my website" />
+</a>
+
+<br />
+<br />
+
+# Hi, I'm Jason 👋
+
+<a href="https://jsl1114.github.io">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Full-Stack+Developer;Building+for+web+%26+mobile;Always+shipping%2C+always+learning"
+    alt="Full-Stack Developer — building for web & mobile"
+  />
+</a>
+
+<br />
+
 [![cv][CV]](https://jsl1114.github.io/assets/jason_liu_cv.pdf)
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Email][gmail-shield]][gmail-url]
 
-### Languages
-[![py][Python]](https://python.org)
-[![js][JavaScript]](https://www.javascript.com/)
-[![ts][TypeScript]](https://www.typescriptlang.org/)
-[![java][Java]](https://java.com)
-[![c][C]](https://en.wikipedia.org/wiki/C_(programming_language))
-[![cpp][C++]](https://cplusplus.com/)
-[![dart][Dart]](https://dart.dev/)
-[![bash][Bash]](https://www.gnu.org/software/bash/)
+</div>
 
-### Technologies
-[![React][React.js]][React-url]
-[![Vue][Vue.js]][Vue-url]
-[![Next][Next.js]][Next-url]
-[![flutter][Flutter]](https://flutter.dev/)
-[![Express][Express.js]][Express-url]
-[![MySQL][Mysql]](https://www.mysql.com/)
-[![PostgreSQL][PostgreSQL]](https://www.postgresql.org/)
-[![MongoDB][MongoDB]](https://www.mongodb.com/)
-[![tf][TensorFlow]](https://www.tensorflow.org/)
-[![PyTorch][PyTorch]](https://pytorch.org/)
-[![Supabase][Supabase]](https://supabase.com/)
-[![Firebase][Firebase]](https://firebase.com/)
-[![Prisma][Prisma]](https://Prisma.io/)
-[![Drizzle][Drizzle]](https://orm.drizzle.team/)
+---
 
-### Messaging & Streaming
-[![Kafka][Kafka]](https://kafka.apache.org/)
-[![RabbitMQ][RabbitMQ]](https://www.rabbitmq.com/)
+## 🧰 Tech Stack
 
-### DevOps & Hosting
-[![Docker][Docker]](https://www.docker.com/)
-[![Vercel][Vercel]](https://vercel.com/)
-[![AWS][AWS]](https://aws.amazon.com/)
-
-### Version Control & Platforms
-[![Git][Git]](https://git-scm.com/)
-[![GitHub][GitHub]](https://github.com/)
-[![GitLab][GitLab]](https://gitlab.com/)
-[![Gitee][Gitee]](https://gitee.com/)
-
-### AI Tools
-[![Claude][Claude]](https://claude.ai/)
-[![ChatGPT][ChatGPT]](https://chat.openai.com/)
-[![Gemini][Gemini]](https://gemini.google.com/app)
-[![Windsurf][Windsurf]](https://Windsurf.com/)
-[![JetBrains AI][JetBrains AI]](https://www.jetbrains.com/ai/)
-[![GitHub Copilot][GitHub Copilot]](https://github.com/features/copilot)
-[![Cursor][Cursor]]()
-
+| Category                   | Tools                                                                                                                                                                                                                                                                                                                                                                      |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**              | [![py][Python]](https://python.org) [![js][JavaScript]](https://www.javascript.com/) [![ts][TypeScript]](https://www.typescriptlang.org/) [![java][Java]](https://java.com) [![c][C]](https://en.wikipedia.org/wiki/C_(programming_language)) [![cpp][C++]](https://cplusplus.com/) [![dart][Dart]](https://dart.dev/) [![bash][Bash]](https://www.gnu.org/software/bash/) |
+| **Frameworks & Libraries** | [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Next][Next.js]][Next-url] [![Express][Express.js]][Express-url] [![flutter][Flutter]](https://flutter.dev/)                                                                                                                                                                                                   |
+| **Machine Learning**       | [![tf][TensorFlow]](https://www.tensorflow.org/) [![PyTorch][PyTorch]](https://pytorch.org/)                                                                                                                                                                                                                                                                               |
+| **Databases & ORMs**       | [![MySQL][Mysql]](https://www.mysql.com/) [![PostgreSQL][PostgreSQL]](https://www.postgresql.org/) [![MongoDB][MongoDB]](https://www.mongodb.com/) [![Supabase][Supabase]](https://supabase.com/) [![Firebase][Firebase]](https://firebase.com/) [![Prisma][Prisma]](https://Prisma.io/) [![Drizzle][Drizzle]](https://orm.drizzle.team/)                                  |
+| **Messaging & Streaming**  | [![Kafka][Kafka]](https://kafka.apache.org/) [![RabbitMQ][RabbitMQ]](https://www.rabbitmq.com/)                                                                                                                                                                                                                                                                            |
+| **DevOps & Cloud**         | [![Docker][Docker]](https://www.docker.com/) [![Vercel][Vercel]](https://vercel.com/) [![AWS][AWS]](https://aws.amazon.com/)                                                                                                                                                                                                                                               |
+| **Version Control**        | [![Git][Git]](https://git-scm.com/) [![GitHub][GitHub]](https://github.com/) [![GitLab][GitLab]](https://gitlab.com/) [![Gitee][Gitee]](https://gitee.com/)                                                                                                                                                                                                                |
+| **AI Tools**               | [![Claude][Claude]](https://claude.ai/) [![ChatGPT][ChatGPT]](https://chat.openai.com/) [![Gemini][Gemini]](https://gemini.google.com/app) [![Windsurf][Windsurf]](https://Windsurf.com/) [![JetBrains AI][JetBrains AI]](https://www.jetbrains.com/ai/) [![GitHub Copilot][GitHub Copilot]](https://github.com/features/copilot) [![Cursor][Cursor]](https://cursor.com/) |
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -66,7 +49,7 @@
 [Flutter]: https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff
 [Mysql]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=fff
 [PostgreSQL]: https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff
-[Supabase]: https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff
+[Supabase]: https://img.shields.io/badge/supabase-181818?style=for-the-badge&logo=supabase&logoColor=3FCF8E
 [Firebase]: https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=fff
 [Dart]: https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff
 [CV]: https://img.shields.io/badge/CV-013243?style=for-the-badge&logo=files&logoColor=white
@@ -110,14 +93,14 @@
 [JQuery-url]: https://jquery.com 
 [JavaScript]: https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Java]: https://img.shields.io/badge/Java-ff0000?style=for-the-badge
+[Java]: https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white
 [C++]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-[C]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white
+[C]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 [TypeScript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
 [TensorFlow]: https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [PyTorch]: https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 [Prisma]: https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white
-[Drizzle]: https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=Drizzle&logoColor=white
+[Drizzle]: https://img.shields.io/badge/Drizzle-0C0A09?style=for-the-badge&logo=drizzle&logoColor=C5F74F
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white
 [Kafka]: https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white
 [RabbitMQ]: https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
