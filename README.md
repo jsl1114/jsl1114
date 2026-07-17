@@ -4,33 +4,16 @@
 *** See the bottom of this document for the declaration of the reference variables.
 -->
 
-<div align="center">
-
 <a href="https://jsl1114.github.io">
   <img src="web-nav.jpg" width="100%" alt="Jason Liu — visit my website" />
 </a>
 
-<br />
-<br />
+# Jason Liu
 
-# Hi, I'm Jason 👋
-
-<a href="https://jsl1114.github.io">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&height=40&lines=Full-Stack+Developer;Building+for+web+%26+mobile;Always+shipping%2C+always+learning"
-    alt="Full-Stack Developer — building for web & mobile"
-  />
-</a>
-
-<br />
+Full-stack developer working across web and mobile.
 
 [![cv][CV]](https://jsl1114.github.io/assets/jason_liu_cv.pdf)
-
-</div>
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 | Category                   | Tools                                                                                                                                                                                                                                                                                                                                                                      |
 | :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
